@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*-coding:utf-8-*-
 # zabbix version : 2.4.4
+# python version : 2.7.8
 import requests
 import datetime
 import time
